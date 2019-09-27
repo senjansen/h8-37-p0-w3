@@ -1,7 +1,7 @@
 // Jansen - Hacktiv8 Batch 37 - King Fox
 // Exercise 11 -Arithmetic Progression
 
-// Function to calculate arithmetic series of an array number
+// Function to check the arithmetic series of an array number
 function tentukanDeretAritmatika(arr) {
     let series = 0;
     let arrayLength = arr.length;
